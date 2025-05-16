@@ -1,4 +1,4 @@
-const server = "63.178.15.62:80";
+const server = "http://63.178.15.62:80";
 let guessCounter = 0;
 
 const userGuess = document.getElementById("user-guess");
